@@ -211,39 +211,7 @@ static void ProcessCmd(char *line)
 	 // het 2
 
 
-	    // donnhiemso1
-//  if (strncmp(line, "PERIOD=", 7) == 0)
-//  {
-//    uint32_t p = (uint32_t)atoi(line + 7);
-//    if (p >= 2000 && p <= 600000)
-//    {
-//      g_period_ms = p;
-//      myPrintf(&huart1," HAL_UART_Transmit... OK:%d\r\n", g_period_ms);
-//    }
-//    else
-//    {
-//    	myPrintf(&huart1," SET PERIOD ERROR\r\n");
-//    	myPrintf(&huart1,"YEU CAU: PERIOD >= 2000 && PERIOD <= 600000\r\n");
-//    }
-//  }
-//  else if (strcmp(line, "SAVE") == 0)
-//  {
-//    // ee_data.magic = CFG_MAGIC;
-//    // ee_data.period_ms = g_period_ms;
-//    // ee_write();
-//    // HAL_UART_Transmit(... "SAVED\r\n")
-//  }
-//  else if (strcmp(line, "LOAD") == 0)
-//  {
-//    // ee_read();
-//    // if (ee_data.magic == CFG_MAGIC) g_period_ms = ee_data.period_ms;
-//    // HAL_UART_Transmit(... "LOADED\r\n")
-//  }
-//  else
-//  {
-//    // HAL_UART_Transmit(... "UNKNOWN\r\n")
-//  }
-   //het 1
+	   
 
 
 }
@@ -421,17 +389,7 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-	  // donnhiemso1
-//	  if (HAL_GetTick() - last_run >= g_period_ms)
-//	 	  {
-//	 	      last_run = HAL_GetTick();
-//
-//	 	      for (int i = 0; i < 5; i++)
-//	 	      {
-//	 	          sptt_task_point_array[i]();
-//	 	      }
-//	 	  }
-	  //het1
+
 
 
 	  // donnhiemso2
