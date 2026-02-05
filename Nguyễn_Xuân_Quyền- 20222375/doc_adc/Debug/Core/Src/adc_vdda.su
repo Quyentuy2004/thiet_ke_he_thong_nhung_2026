@@ -1,0 +1,7 @@
+../Core/Src/adc_vdda.c:30:13:adc_short_delay	16	static,ignoring_inline_asm
+../Core/Src/adc_vdda.c:37:17:ADC_ReadRaw_Blocking	24	static
+../Core/Src/adc_vdda.c:47:26:ADC_SetChannel	40	static
+../Core/Src/adc_vdda.c:64:6:ADC_EnableVrefint	24	static,ignoring_inline_asm
+../Core/Src/adc_vdda.c:89:7:ADC_MeasureVDDA_FromVrefint	40	static
+../Core/Src/adc_vdda.c:123:7:ADC_ReadChannelVoltage_WithVDDA	48	static
+../Core/Src/adc_vdda.c:154:10:ADC_ReadChannelRaw_Avg	32	static
