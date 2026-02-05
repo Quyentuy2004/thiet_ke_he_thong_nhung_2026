@@ -1,0 +1,5 @@
+../Core/Src/ee.c:128:6:ee_init	24	static
+../Core/Src/ee.c:190:10:ee_capacity	4	static
+../Core/Src/ee.c:200:6:ee_format	32	static
+../Core/Src/ee.c:258:6:ee_read	16	static
+../Core/Src/ee.c:286:6:ee_write	32	static

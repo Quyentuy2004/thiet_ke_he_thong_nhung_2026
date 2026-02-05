@@ -1,0 +1,4 @@
+../Core/Src/soil_adc.c:15:13:Soil_GPIO_AnalogInit	48	static
+../Core/Src/soil_adc.c:29:13:Soil_ADC_Init	40	static
+../Core/Src/soil_adc.c:58:6:Soil_Begin	16	static
+../Core/Src/soil_adc.c:64:7:Soil_ReadRaw	32	static

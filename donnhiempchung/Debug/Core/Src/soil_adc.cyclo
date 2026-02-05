@@ -1,0 +1,4 @@
+../Core/Src/soil_adc.c:15:13:Soil_GPIO_AnalogInit	5
+../Core/Src/soil_adc.c:29:13:Soil_ADC_Init	5
+../Core/Src/soil_adc.c:58:6:Soil_Begin	1
+../Core/Src/soil_adc.c:64:7:Soil_ReadRaw	4
